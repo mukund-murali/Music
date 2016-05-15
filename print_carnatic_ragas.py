@@ -42,7 +42,7 @@ for ma in mas:
                         raga = [sa, ri, ga, ma, pa, tha, ni]
                     raga.append(sa)
                     print_raga(raga)
-                    print '-' * 10
+                    print ''
                     total += 1
 
 
