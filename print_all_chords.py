@@ -40,4 +40,4 @@ for key in scale:
     for chord in per_key_chords[key]:
         print_chord(chord)
 
-    print '-' * 20
+print '-' * 20
