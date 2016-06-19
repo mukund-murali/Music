@@ -1,5 +1,5 @@
 sa = 'sa'
-ris = ['r1', 'r2', 'r3']
+ris = ['ri1', 'ri2', 'ri3']
 gas = ['ga1', 'ga2', 'ga3']
 mas = ['ma1', 'ma2']
 pa = 'pa'
@@ -45,5 +45,6 @@ for ma in mas:
                     print ''
                     total += 1
 
-
+print '-' * 20
 print "total ragas:", total
+print '-' * 20
